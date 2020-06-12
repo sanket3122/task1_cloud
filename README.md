@@ -1,4 +1,4 @@
 # Task1: Terraform with Jenkins pipeline 
 
 
-[Run the example live](https://github.com/sanket3122/task1_cloud.git/).
+[Run the example live](http://sanket3122.github.io/task1_cloud).
